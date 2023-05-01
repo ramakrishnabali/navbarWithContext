@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.dark-not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000000;
+}
+
+.notImage {
+  height: 250px;
+}
+
+.description {
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 700;
+  color: #334155;
+}
+
+.dark-description {
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 700;
+  color: #ffffff;
+}
